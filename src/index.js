@@ -346,7 +346,7 @@ module.exports = function(schema, option) {
   return {
     panelDisplay: [
       {
-        panelName: `index.jsx`,
+        panelName: `pppp.jsx`,
         panelValue: prettier.format(`
           'use strict';
 
